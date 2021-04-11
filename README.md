@@ -1,5 +1,5 @@
 # Tarea 1
-
+ 
 En esta tarea se utilizará el framework PHPFramex para crear una aplicación web de ejemplo que presente información sobre libros. Se deben crear cuatro páginas con la siguiente información de libros (utilizando únicamente código HTML).
 
 id,title,edition,copyright,language,pages,author,publisher
